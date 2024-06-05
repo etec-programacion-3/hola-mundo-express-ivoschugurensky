@@ -2,6 +2,10 @@
 ## Run Locally  
 Clone the project  
 
+
+---Nombre--
+Ivo Schugurensky
+
 ~~~bash  
   git clone ssh link-to-project
 ~~~
